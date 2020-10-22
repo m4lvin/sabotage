@@ -4,8 +4,6 @@ A naive, explicit state implementation of the Sabotage Game as proposed in
 [*An Essay on Sabotage and Obstruction*](https://doi.org/10.1007/978-3-540-32254-2_16)
 by Johan van Benthem (2005).
 
-You can try this program online at https://repl.it/@m4lvin/SabotageGameHaskell.
-
 ## Data Type
 
 ```.haskell
